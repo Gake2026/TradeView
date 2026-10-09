@@ -1,0 +1,6 @@
+{
+  "name": "TradeView Paper Trading Platform",
+  "description": "Professional real-time paper trading platform with interactive TradingView charts, top crypto, US & Indian stocks, spot, futures & options trading with risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
